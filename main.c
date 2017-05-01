@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <diary.h>
 
 int main()
 {
