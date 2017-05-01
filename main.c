@@ -1,6 +1,6 @@
 #include <diary.h>
 
-int main()
+ main()
 {
 	memeo();
 	calendar();

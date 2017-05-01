@@ -1,3 +1,7 @@
 Hi, I'm master branch
 
+<<<<<<< HEAD
 Hi i'm secondBranch//make Conflit
+=======
+Hi i'm secondBranchi//SecondBracnch
+>>>>>>> secondBranch
